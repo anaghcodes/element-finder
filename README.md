@@ -1,1 +1,1 @@
-Do not use this without my permission and give credits wherever it maybe used :>
+##Find the name of the element with their atomic numbers!
